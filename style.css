@@ -1,0 +1,43 @@
+img {
+	height: 400px;
+}
+
+div.log-row {
+	width: 40em;
+	text-align: center;
+	margin: auto;
+}
+
+div.best-bid{
+	background-color: #00ff00;
+}
+
+#app {
+	text-align: center;
+}
+
+.togl {
+	margin: 5px;
+}
+
+.del {
+	margin-left: 5px;
+	margin-right: 10px;
+	color:gray;
+}
+
+span.date{
+	width: 6em;
+	opacity: 0.5;
+	display: inline-block; 
+}
+
+span.bidder{
+	width: 10em;
+	display: inline-block; 
+
+}
+span.amount {
+	width: 4.5em;
+	display: inline-block; 
+}
